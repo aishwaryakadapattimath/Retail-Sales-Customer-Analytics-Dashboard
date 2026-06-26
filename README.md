@@ -99,7 +99,35 @@ Evaluates customer behavior through revenue contribution, order frequency, RFM s
 - Customer concentration analysis helped identify the percentage of customers driving the majority of business revenue.
 - 
 ---
+# 📂 Dataset Overview
 
+The analysis is based on the **Online Retail** transactional dataset containing customer purchase records from a UK-based online retail business. The dataset captures detailed sales transactions, enabling comprehensive analysis of revenue performance, customer purchasing behavior, and product-level trends.
+
+### Dataset Characteristics
+
+- **Domain:** Retail / E-Commerce
+- **Granularity:** Transaction Level
+- **Time Period:** December 2010 – December 2011
+- **Primary Market:** United Kingdom (with transactions from multiple countries)
+
+### Key Business Entities
+
+| Entity | Description |
+|---------|-------------|
+| Invoice | Unique sales transaction identifier |
+| Customer | Customer making the purchase |
+| Product | Item purchased by the customer |
+| Quantity | Number of units purchased |
+| Unit Price | Selling price per product |
+| Revenue | Calculated as Quantity × Unit Price |
+| Invoice Date | Date and time of transaction |
+| Country | Customer's country |
+
+### Business Value of the Dataset
+
+The dataset provides sufficient transactional detail to perform sales analysis, customer segmentation, product performance evaluation, geographic analysis, and business intelligence reporting through an end-to-end analytics workflow.
+
+---
 ## 🎯 Project Summary
 
 This project focuses on analyzing retail sales data to uncover key business insights such as:
