@@ -53,22 +53,13 @@ The Power BI solution is organized into three business-focused analytical pages,
 
 | Business Performance Overview | Sales & Revenue Analysis |
 |------------------------------|--------------------------|
-| ![](dashboard/notebooks/screenshots/Business_Performance_Overview_Page.png) | ![](screenshots/sales_revenue_analysis.png) |
+| ![](dashboard/notebooks/screenshots/Business_Performance_Overview_Page.png) | ![](dashboard/notebooks/screenshots/Sales_and_Revenue_Analysis_Page.png) |
 
 | Customer Analytics |
 |--------------------|
-| ![](screenshots/customer_analytics.png) |
+| ![](dashboard/notebooks/screenshots/Customer_Analysis_Page.png) |
 
 > **Note:** Dashboard screenshots will be added after exporting the final Power BI report.
-## 📸 Dashboard Preview
-
-> A snapshot of the interactive Power BI dashboard showcasing product performance insights, revenue trends, and customer segmentation.
-
-<p align="center">
-  <img src="dashboard/notebooks/screenshots/Business_Performance_Overview_Page.png" width="900"/>
-  <img src="dashboard/notebooks/screenshots/Sales_and_Revenue_Analysis_Page.png" width="900"/>
-  <img src="dashboard/notebooks/screenshots/Customer_Analysis_Page.png" width="900"/>
-</p>
 
 ---
 
