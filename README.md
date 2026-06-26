@@ -315,3 +315,80 @@ RFM segmentation enables businesses to:
 The generated customer segments were integrated into the Power BI dashboard, allowing stakeholders to compare customer distribution, revenue contribution, and customer value across different business segments.
 
 ---
+# 📊 Power BI Dashboard Development
+
+The final Business Intelligence solution was developed in **Power BI** to transform analytical findings into interactive dashboards that support business decision-making.
+
+## Dashboard Features
+
+The solution includes:
+
+- Executive KPI Cards for business performance monitoring.
+- Interactive slicers for dynamic data filtering.
+- Drill-down analysis across different business dimensions.
+- Dynamic DAX measures for real-time KPI calculations.
+- Business-focused visualizations for sales, products, and customer analysis.
+- Cross-filtering and interactive report navigation.
+
+## Dashboard Pages
+
+### 📈 Business Performance Overview
+
+Focuses on executive-level KPIs including:
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Monthly Revenue Trend
+- Country-wise Revenue Analysis
+- Product Performance
+- Year-over-Year Growth Analysis
+
+---
+
+### 💰 Sales & Revenue Analysis
+
+Provides detailed sales performance through:
+
+- Revenue Trend Analysis
+- Top Product Analysis
+- Revenue Contribution
+- Pareto Analysis
+- Product Performance Comparison
+- Country-wise Sales Analysis
+
+---
+
+### 👥 Customer Analytics
+
+Provides customer-focused business insights through:
+
+- Top Customers by Revenue
+- Revenue vs Orders Analysis
+- Customer Revenue Distribution
+- RFM Customer Segmentation
+- Customer Revenue Contribution
+- Customer Concentration (Pareto)
+- Dynamic Business Insights
+
+## DAX Measures Developed
+
+Several reusable DAX measures were created to support dynamic reporting, including:
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Revenue Growth (YoY)
+- Revenue Contribution (%)
+- Customer Revenue Rank
+- Cumulative Revenue
+- Customer Segmentation Metrics
+- Dynamic Insight Measures
+
+## Outcome
+
+The Power BI dashboard provides business stakeholders with an interactive platform to monitor performance, explore trends, identify opportunities, and make informed business decisions through self-service analytics.
+
+---
