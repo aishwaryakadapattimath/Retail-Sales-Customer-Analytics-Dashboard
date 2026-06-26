@@ -22,7 +22,7 @@
 > A snapshot of the interactive Power BI dashboard showcasing customer segmentation, revenue trends, and product performance insights.
 
 <p align="center">
-  <img src="ADD_YOUR_DASHBOARD_IMAGE_LINK_HERE" width="900"/>
+  <img src="screenshots/Business_Performance_Overview_Page.png" width="900"/>
 </p>
 
 ---
