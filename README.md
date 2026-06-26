@@ -468,15 +468,15 @@ Based on the analysis, the following recommendations can help improve business p
 Retail-Sales-Customer-Analytics-Dashboard
 │
 ├── dashboard/
-│   └── Power BI Dashboard (.pbix)
+│   └── Power BI Dashboard (Retail-Sales-Customer-Analytics-Dashboard.pbix)
 │
 ├── notebooks/
-│   └── Python Data Cleaning & EDA Notebook (.ipynb)
+│   └── Python Data Cleaning & EDA Notebook (Retail-Sales-Customer-Analytics.ipynb)
 │
 ├── screenshots/
-│   ├── business_overview.png
-│   ├── sales_revenue_analysis.png
-│   └── customer_analytics.png
+│   ├── Business_Performance_Overview_Page.png
+│   ├── Sales_and_Revenue_Analysis_Page.png
+│   └── Customer_Analysis_Page.png
 │
 └── README.md
 ```
