@@ -195,7 +195,6 @@ Interactive Dashboard Development
             ▼
 Business Insights & Recommendations
 ```
-
 ### Solution Flow
 
 - **Raw Dataset:** Imported the retail transactional dataset into Python.
