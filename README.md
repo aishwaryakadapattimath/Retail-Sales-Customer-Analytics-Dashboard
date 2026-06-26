@@ -53,7 +53,7 @@ The Power BI solution is organized into three business-focused analytical pages,
 
 | Business Performance Overview | Sales & Revenue Analysis |
 |------------------------------|--------------------------|
-| ![](screenshots/business_overview.png) | ![](screenshots/sales_revenue_analysis.png) |
+| ![](dashboard/notebooks/screenshots/Business_Performance_Overview_Page.png) | ![](screenshots/sales_revenue_analysis.png) |
 
 | Customer Analytics |
 |--------------------|
