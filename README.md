@@ -144,6 +144,22 @@ The absence of a centralized analytical solution limits the ability to answer cr
 To address these challenges, this project develops an end-to-end analytics solution that transforms raw retail transaction data into interactive dashboards and actionable business insights, enabling stakeholders to make informed, data-driven decisions.
 
 ---
+# 🎯 Business Objectives
+
+The primary objective of this project was to develop an interactive Business Intelligence solution that enables stakeholders to monitor business performance and support strategic decision-making through data-driven insights.
+
+The solution was designed to achieve the following objectives:
+
+- Monitor overall business performance using executive-level KPIs.
+- Identify high-performing products and major revenue contributors.
+- Analyze sales performance across different countries and time periods.
+- Understand customer purchasing behavior and buying patterns.
+- Segment customers using RFM analysis to support targeted business strategies.
+- Identify high-value customers and potential customer growth opportunities.
+- Develop interactive dashboards for real-time business monitoring.
+- Generate actionable insights to support revenue growth and customer retention initiatives.
+
+---
 ## 🎯 Project Summary
 
 This project focuses on analyzing retail sales data to uncover key business insights such as:
