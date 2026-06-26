@@ -17,6 +17,16 @@
 
 ---
 
+# 🎯 Executive Summary
+
+This project presents an end-to-end Retail Sales Analytics solution developed using **Python** and **Power BI** to transform raw transactional data into meaningful business insights.
+
+The solution follows a complete analytics workflow, beginning with **data quality assessment**, **data cleaning**, **feature engineering**, and **exploratory data analysis (EDA)** in Python, followed by **RFM customer segmentation**, **Power BI data modeling**, **DAX-based KPI development**, and interactive dashboard creation.
+
+The final dashboard enables business stakeholders to monitor organizational performance, identify revenue drivers, evaluate customer behavior, analyze product performance, and support data-driven business decisions through an intuitive and interactive reporting experience.
+
+---
+
 ## 📸 Dashboard Preview
 
 > A snapshot of the interactive Power BI dashboard showcasing product performance insights, revenue trends, and customer segmentation.
