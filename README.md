@@ -160,27 +160,52 @@ The solution was designed to achieve the following objectives:
 - Generate actionable insights to support revenue growth and customer retention initiatives.
 
 ---
-## 🎯 Project Summary
+# 🏗️ Solution Architecture
 
-This project focuses on analyzing retail sales data to uncover key business insights such as:
+The project follows a structured end-to-end analytics workflow, beginning with raw transactional data and ending with interactive business intelligence dashboards that support data-driven decision-making.
 
-- Identifying high-value customer segments
-- Understanding revenue contribution patterns
-- Tracking sales performance over time
-- Detecting churn and lost customers
-- Supporting data-driven business decisions
+```text
+Raw Retail Sales Dataset
+            │
+            ▼
+Data Quality Assessment
+            │
+            ▼
+Data Cleaning & Transformation
+(Python - Pandas)
+            │
+            ▼
+Feature Engineering
+            │
+            ▼
+Exploratory Data Analysis (EDA)
+            │
+            ▼
+RFM Customer Segmentation
+            │
+            ▼
+Power BI Data Modeling
+            │
+            ▼
+DAX Measure Development
+            │
+            ▼
+Interactive Dashboard Development
+            │
+            ▼
+Business Insights & Recommendations
+```
 
-The entire workflow follows an **end-to-end analytics pipeline** from raw data → cleaned dataset → insights → interactive dashboard.
+### Solution Flow
+
+- **Raw Dataset:** Imported the retail transactional dataset into Python.
+- **Data Cleaning:** Removed missing values, duplicate records, cancelled invoices, and invalid transactions.
+- **Feature Engineering:** Created business metrics such as Revenue, Month, Year, RFM metrics, and Customer Segments.
+- **EDA:** Analyzed sales trends, product performance, customer behavior, and country-wise revenue patterns.
+- **Customer Segmentation:** Performed RFM analysis to classify customers into meaningful business segments.
+- **Power BI Modeling:** Built a star-schema data model and established relationships between tables.
+- **DAX Development:** Developed reusable business KPIs and dynamic measures for interactive reporting.
+- **Dashboard Development:** Designed three analytical dashboard pages with interactive visuals, slicers, and drill-down capabilities.
+- **Business Insights:** Generated actionable insights and recommendations to support business decision-making.
 
 ---
-
-## 📌 Business Problem Statement
-
-Retail companies generate large volumes of transactional data, but struggle with:
-
-- Lack of visibility into customer behavior
-- Difficulty identifying top-performing customers/products
-- No clear understanding of revenue drivers
-- Reactive instead of proactive decision-making
-
-👉 This project solves these challenges by building a structured analytics solution using Python + Power BI.
