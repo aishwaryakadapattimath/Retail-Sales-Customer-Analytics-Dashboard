@@ -46,21 +46,58 @@ The final dashboard enables business stakeholders to monitor organizational perf
 ✔ Actionable Insights and Strategic Business Recommendations
 
 ---
-
 # 📊 Dashboard Preview
 
-The Power BI solution is organized into three business-focused analytical pages, enabling stakeholders to monitor performance from executive, sales, and customer perspectives.
+The Power BI solution is designed across three analytical pages, enabling business stakeholders to monitor organizational performance, analyze sales trends, and evaluate customer behavior through interactive and data-driven reporting.
 
-| Business Performance Overview | Sales & Revenue Analysis |
-|------------------------------|--------------------------|
-| ![](dashboard/notebooks/screenshots/Business_Performance_Overview_Page.png) | ![](dashboard/notebooks/screenshots/Sales_and_Revenue_Analysis_Page.png) |
+---
 
-| Customer Analytics |
-|--------------------|
-| ![](dashboard/notebooks/screenshots/Customer_Analysis_Page.png) |
+## 📈 Business Performance Overview
 
-> **Note:** Dashboard screenshots will be added after exporting the final Power BI report.
+Provides a high-level view of business performance through executive KPIs, revenue trends, product performance, country analysis, and year-over-year growth indicators.
 
+![Business Overview](dashboard/notebooks/screenshots/Business_Performance_Overview_Page.png)
+
+### Key Business Insights
+
+- Generated an overall revenue of approximately **8.8M** from retail transactions.
+- **United Kingdom** emerged as the highest revenue-generating market.
+- **November** recorded the highest monthly sales, highlighting seasonal demand.
+- Identified the top-performing products contributing significantly to overall revenue.
+- Monitored business performance using dynamic KPIs and Year-over-Year growth analysis.
+
+---
+
+## 💰 Sales & Revenue Analysis
+
+Provides detailed analysis of sales performance across products, countries, and time periods using revenue trends, Pareto analysis, contribution analysis, and seasonal patterns.
+
+![Sales & Revenue Analysis](dashboard/notebooks/screenshots/Sales_and_Revenue_Analysis_Page.png)
+
+### Key Business Insights
+
+- Identified products contributing the highest share of total revenue.
+- Pareto analysis highlighted that a small percentage of products generated the majority of sales.
+- Revenue trends revealed clear seasonal purchasing patterns across different months.
+- Country-level analysis helped identify high-performing and low-performing markets.
+- Dynamic time intelligence enabled comparison of sales performance across different periods.
+
+---
+
+## 👥 Customer Analytics
+
+Evaluates customer behavior through revenue contribution, order frequency, RFM segmentation, customer concentration, and value-based customer analysis.
+
+![Customer Analytics](dashboard/notebooks/screenshots/Customer_Analysis_Page.png)
+
+### Key Business Insights
+
+- Identified the **Top 10 customers** contributing the highest revenue.
+- RFM analysis classified customers into actionable business segments such as **Champions**, **Potential Customers**, and **Lost Customers**.
+- Champion customers contributed the highest share of overall revenue.
+- Potential Customers represented the largest customer group, indicating strong opportunities for customer growth and retention.
+- Customer concentration analysis helped identify the percentage of customers driving the majority of business revenue.
+- 
 ---
 
 ## 🎯 Project Summary
