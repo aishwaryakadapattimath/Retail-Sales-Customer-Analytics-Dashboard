@@ -244,3 +244,37 @@ Additional business-oriented features were created to support analysis and dashb
 The cleaned and transformed dataset provided a reliable foundation for exploratory data analysis, customer segmentation, DAX calculations, and interactive Power BI dashboard development.
 
 ---
+# 📈 Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis (EDA) was performed to understand sales patterns, customer purchasing behavior, and product performance before developing the Power BI dashboards.
+
+The analysis focused on answering key business questions through descriptive statistics and data visualization.
+
+## EDA Objectives
+
+- Understand overall sales performance.
+- Identify monthly and yearly sales trends.
+- Determine top-performing products based on revenue.
+- Analyze customer purchasing behavior.
+- Evaluate country-wise sales contribution.
+- Identify high-value customers.
+- Understand revenue distribution across customers and products.
+- Validate data quality before dashboard development.
+
+## Key Analyses Performed
+
+| Analysis | Business Purpose |
+|----------|------------------|
+| Revenue Trend Analysis | Identify sales growth and seasonal patterns |
+| Monthly Sales Analysis | Understand monthly business performance |
+| Product Performance Analysis | Identify top revenue-generating products |
+| Customer Revenue Analysis | Identify high-value customers |
+| Country-wise Revenue Analysis | Evaluate market performance across countries |
+| Revenue Distribution Analysis | Understand contribution across customers and products |
+| RFM Preparation Analysis | Prepare customer metrics for segmentation |
+
+## Outcome
+
+The exploratory analysis uncovered important business trends and validated the dataset, providing the foundation for customer segmentation, KPI development, and interactive dashboard reporting.
+
+---
