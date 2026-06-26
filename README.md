@@ -128,6 +128,22 @@ The analysis is based on the **Online Retail** transactional dataset containing 
 The dataset provides sufficient transactional detail to perform sales analysis, customer segmentation, product performance evaluation, geographic analysis, and business intelligence reporting through an end-to-end analytics workflow.
 
 ---
+# 💼 Business Problem
+
+Retail businesses generate thousands of sales transactions every day across products, customers, and geographic locations. While this transactional data contains valuable business information, it is often stored as raw records, making it difficult for decision-makers to extract meaningful insights.
+
+The absence of a centralized analytical solution limits the ability to answer critical business questions, such as:
+
+- How is the business performing overall?
+- Which products generate the highest revenue?
+- Which countries contribute most to sales?
+- Who are the most valuable customers?
+- Which customer segments should be targeted for retention and growth?
+- What sales trends can support future business planning?
+
+To address these challenges, this project develops an end-to-end analytics solution that transforms raw retail transaction data into interactive dashboards and actionable business insights, enabling stakeholders to make informed, data-driven decisions.
+
+---
 ## 🎯 Project Summary
 
 This project focuses on analyzing retail sales data to uncover key business insights such as:
