@@ -2,18 +2,18 @@
 
 ### End-to-End Business Intelligence Solution using Python & Power BI
 
-> Transforming raw retail transaction data into actionable business insights through data cleaning, exploratory analysis, customer segmentation, and interactive dashboard reporting.
+> **Transforming raw retail transaction data into actionable business insights through data cleaning, exploratory data analysis, customer segmentation, and interactive business intelligence reporting.**
 
----
+<p align="left">
 
-## 🛠️ Technology Stack
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+</p>
 
 ---
 
