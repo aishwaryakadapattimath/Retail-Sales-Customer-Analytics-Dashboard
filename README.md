@@ -47,6 +47,19 @@ The final dashboard enables business stakeholders to monitor organizational perf
 
 ---
 
+# 📊 Dashboard Preview
+
+The Power BI solution is organized into three business-focused analytical pages, enabling stakeholders to monitor performance from executive, sales, and customer perspectives.
+
+| Business Performance Overview | Sales & Revenue Analysis |
+|------------------------------|--------------------------|
+| ![](screenshots/business_overview.png) | ![](screenshots/sales_revenue_analysis.png) |
+
+| Customer Analytics |
+|--------------------|
+| ![](screenshots/customer_analytics.png) |
+
+> **Note:** Dashboard screenshots will be added after exporting the final Power BI report.
 ## 📸 Dashboard Preview
 
 > A snapshot of the interactive Power BI dashboard showcasing product performance insights, revenue trends, and customer segmentation.
