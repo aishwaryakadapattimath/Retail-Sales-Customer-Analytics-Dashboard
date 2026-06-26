@@ -19,10 +19,12 @@
 
 ## 📸 Dashboard Preview
 
-> A snapshot of the interactive Power BI dashboard showcasing customer segmentation, revenue trends, and product performance insights.
+> A snapshot of the interactive Power BI dashboard showcasing product performance insights, revenue trends, and customer segmentation.
 
 <p align="center">
   <img src="dashboard/notebooks/screenshots/Business_Performance_Overview_Page.png" width="900"/>
+  <img src="dashboard/notebooks/screenshots/Sales_and_Revenue_Analysis_Page.png" width="900"/>
+  <img src="dashboard/notebooks/screenshots/Customer_Analysis_Page.png" width="900"/>
 </p>
 
 ---
