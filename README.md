@@ -27,6 +27,26 @@ The final dashboard enables business stakeholders to monitor organizational perf
 
 ---
 
+# 🚀 Project Highlights
+
+✔ End-to-End Retail Sales Analytics Solution
+
+✔ Data Cleaning & Quality Assessment using Python
+
+✔ Feature Engineering for Business-Oriented Metrics
+
+✔ Exploratory Data Analysis (EDA) to Identify Revenue and Customer Trends
+
+✔ RFM-Based Customer Segmentation for Customer Value Analysis
+
+✔ Interactive Power BI Dashboard with Dynamic DAX Measures
+
+✔ Business-Focused KPI Development and Performance Monitoring
+
+✔ Actionable Insights and Strategic Business Recommendations
+
+---
+
 ## 📸 Dashboard Preview
 
 > A snapshot of the interactive Power BI dashboard showcasing product performance insights, revenue trends, and customer segmentation.
