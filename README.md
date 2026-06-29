@@ -1,4 +1,4 @@
-# 📊 Retail Sales Customer Analytics Dashboard
+# 📊 Retail Sales & Customer Analytics Dashboard
 
 ### End-to-End Business Intelligence Solution using Python & Power BI
 
